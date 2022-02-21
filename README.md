@@ -9,9 +9,9 @@
 - Perform ETL process completely in the cloud and upload a DataFrame to an RDS instance
 - The second goal will be to use PySpark or SQL to perform a statistical analysis of selected data
 
-**Step1:** Create DataFrames to match production-ready tables from two big Amazon customer review datasets
+**Step 1:** Create DataFrames to match production-ready tables from two big Amazon customer review datasets
 
-**Step2:** Analyze whether reviews from Amazon's Vine program are trustworthy
+**Step 2:** Analyze whether reviews from Amazon's Vine program are trustworthy
 
 ![Amazon GIF](/images/1.gif)
 
@@ -39,9 +39,9 @@
 
 ### Level 2 2️⃣
 
-1. In Amazon's Vine program, reviewers receive free products in exchange for reviews
+- In Amazon's Vine program, reviewers receive free products in exchange for reviews
 
--- Amazon has several policies to reduce the bias of its Vine reviews: [Vine Reviews](https://www.amazon.com/gp/vine/help?ie=UTF8)
+**Amazon has several policies to reduce the bias of its Vine reviews: [Vine Reviews](https://www.amazon.com/gp/vine/help?ie=UTF8)**
 
 #### Tasks ✅
 
