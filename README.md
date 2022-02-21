@@ -46,6 +46,6 @@
 #### Tasks ✅
 
 1. Investigate whether Vine reviews are free of bias
-2. Use either PySpark or—for an extra challenge—SQL to analyze the data
+2. Use either PySpark or SQL to analyze the data
 
 
